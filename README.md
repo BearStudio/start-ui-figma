@@ -1,1 +1,3 @@
-# start-ui-figma
+# 🚀 Start UI [figma]
+
+Issue tracking repository
