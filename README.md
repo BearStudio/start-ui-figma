@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://user-images.githubusercontent.com/62236130/136776106-fb3ae833-965d-4391-b4ff-63eaf56a2888.png" alt="Start UI Figma" width="300" /></h1>
 
-:rocket: Start UI [figma] is a opinionated Figma starter created & maintained by the [BearStudio Team](https://www.bearstudio.fr/team) and other contributors. This repository is used for tracking.
+[🚀 Start UI [figma]](https://www.figma.com/community/file/1025698982013308087) is a opinionated Figma starter created & maintained by the [BearStudio Team](https://www.bearstudio.fr/team) and other contributors. This repository is used for tracking.
 
 ---
 
