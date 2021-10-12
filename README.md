@@ -24,9 +24,7 @@ You can freely contribute to make [🚀 Start UI [figma]](https://go.bearstudio.
 - Finally, upload your `.fig` in the issue and we will be able to update (after review of course 😜) the [main community file](https://go.bearstudio.fr/start-ui-figma).
 
 
-## For the record
+## Other starters
 
-If you are more interested to work with code, you can check our starter for web and native 🎉 :
-- [🚀 Start UI [web]](https://go.bearstudio.fr/start-ui-web).
-- [🚀 Start UI [native]](https://go.bearstudio.fr/start-ui-native).
+If you are more interested to work with code, you can check our starter for web [🚀 Start UI [web]](https://go.bearstudio.fr/start-ui-web) and native [🚀 Start UI [native]](https://go.bearstudio.fr/start-ui-native) 🎉
 
