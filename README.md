@@ -1,7 +1,7 @@
 <h1 align="center"><a href="https://go.bearstudio.fr/start-ui-figma"><img src="https://user-images.githubusercontent.com/62236130/136928347-371768a6-6910-4ea4-923d-1af6a8788472.png" alt="Start UI figma" width="300" /></a></h1>
 
 
-[🚀 Start UI [figma]](https://go.bearstudio.fr/start-ui-figma) is a opinionated Figma starter created & maintained by the [BearStudio Team](https://www.bearstudio.fr/team) and other contributors. This repository is used for tracking.
+[🚀 Start UI [figma]](https://go.bearstudio.fr/start-ui-figma) is a opinionated Figma starter created & maintained by the [BearStudio Team](https://www.bearstudio.fr/team) and other contributors. This repository is used for issue tracking.
 
 ---
 
