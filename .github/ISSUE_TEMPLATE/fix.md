@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+- [ ] I can reproduce this bug with the latest version available on the [community page](https://go.bearstudio.fr/start-ui-figma)
+
 ## Describe the problem
 <!--A clear and concise description of what the bug is. Please add some **screenshots** to make it clearer-->
 
