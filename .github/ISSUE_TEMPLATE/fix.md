@@ -1,27 +1,27 @@
 ---
 name: Fix
 about: Create a report to help us improve
-title: Fix - Title
-labels: ''
+title: Fix:
+labels: 'Bug'
 assignees: ''
 
 ---
 
-**Describe the problem**
-A clear and concise description of what the bug is.
+## Describe the problem
+<!--A clear and concise description of what the bug is. Please add some **screenshots** to make it clearer-->
 
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+## Expected behavior
+<!--A clear and concise description of what you expected to happen.-->
 
 
-**How do you plan to fix the problem ?**
-Try to explain how could you/we fix the problem.
+## How do you plan to fix the problem ?
+<!--Try to explain how could you/we fix the problem.-->
 
 
-**Additional context**
-Add any other context about the problem here. (screenshots etc.)
+## Figma file
+<!--If you have fixed the issue yourself don't forget to send us your **.FIG** so we can fix this on our main file.-->
 
 
-**Figma FIle**
-If you have fixed the issue yourself don't forget to send us your **.FIG** so we can fix this on our main file.
+## Additional context
+<!--Add any other context about the problem here. (screenshots etc.)-->
