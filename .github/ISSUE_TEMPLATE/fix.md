@@ -15,7 +15,7 @@ assignees: ''
 <!--A clear and concise description of what you expected to happen.-->
 
 
-## How do you plan to fix the problem ?
+## How do you plan to fix the problem?
 <!--Try to explain how could you/we fix the problem.-->
 
 
