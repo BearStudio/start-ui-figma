@@ -1,29 +1,38 @@
 ---
-name: bug_report
+name: Bug report
 about: Create a report to help us improve
-title: Fix:
-labels: 'bug'
+title: ''
+labels: ''
 assignees: ''
 
 ---
 
-- [ ] I can reproduce this bug with the latest version available on the [community page](https://go.bearstudio.fr/start-ui-figma)
+**Describe the bug**
+A clear and concise description of what the bug is.
 
-## Describe the problem
-<!--A clear and concise description of what the bug is. Please add some **screenshots** to make it clearer-->
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
 
+**Expected behavior**
+A clear and concise description of what you expected to happen.
 
-## Expected behavior
-<!--A clear and concise description of what you expected to happen.-->
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
 
+**Desktop (please complete the following information):**
+ - OS: [e.g. iOS]
+ - Browser [e.g. chrome, safari]
+ - Version [e.g. 22]
 
-## Any idea how to fix the problem?
-<!--Try to explain how could you/we fix the problem-->
+**Smartphone (please complete the following information):**
+ - Device: [e.g. iPhone6]
+ - OS: [e.g. iOS8.1]
+ - Browser [e.g. stock browser, safari]
+ - Version [e.g. 22]
 
-
-## Figma file
-<!--If you have fixed the issue yourself don't forget to send us your **.FIG** so we can fix this on our main file.-->
-
-
-## Additional context
-<!--Add any other context about the problem here. (screenshots etc.)-->
+**Additional context**
+Add any other context about the problem here.
