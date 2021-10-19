@@ -19,15 +19,15 @@ body:
       label: Type of element concerned
       description: Where did you experienced your problem?
       options:
-        - 🎓 Tutorials
-        - 💻 Web app Desktop [web]
-        - 📱 Mobile App [native]
-        - ⭐️ Icons
-        - 💊 Components
-        - 💎 Brand
-        - 🎨 Styles
-        - 🌈 Colors library
-        - ➕ Other...
+        - 🎓  Tutorials
+        - 💻  Web app Desktop [web]
+        - 📱  Mobile App [native]
+        - ⭐️  Icons
+        - 💊  Components
+        - 💎  Brand
+        - 🎨  Styles
+        - 🌈  Colors library
+        - ➕  Other...
     validations:
       required: false      
   - type: textarea
