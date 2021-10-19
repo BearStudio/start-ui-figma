@@ -12,8 +12,7 @@ body:
       description: Check first if the issue is live on the latest version of the starter. If you are unsure, please check it out on the [community page](https://go.bearstudio.fr/start-ui-figma).
       options:
         - label: Is this bug up on the latest version of the starter ?
-          required: false
-          
+          required: false     
   - type: dropdown
     id: version
     attributes:
@@ -30,8 +29,7 @@ body:
         - 🌈 Colors library
         - ➕ Other...
     validations:
-      required: false
-      
+      required: false      
   - type: textarea
     id: what-happened
     attributes:
@@ -40,7 +38,7 @@ body:
       placeholder: What can you see?
     validations:
       required: true
-   - type: textarea
+  - type: textarea
     id: expected-behavior
     attributes:
       label: What do you suggest to improve  
