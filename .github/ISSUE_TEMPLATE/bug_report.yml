@@ -11,7 +11,7 @@ body:
     attributes:
       description: Check first if the issue is live on the latest version of the starter. If you are unsure, please check it out on the [community page](https://go.bearstudio.fr/start-ui-figma).
       options:
-        - label: Is this bug up on the latest version of the starter ?
+        - label: Can you reproduce this bug on the latest version of the starter?
           required: false     
   - type: dropdown
     id: version
