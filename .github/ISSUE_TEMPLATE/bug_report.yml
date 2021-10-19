@@ -33,8 +33,8 @@ body:
   - type: textarea
     id: what-happened
     attributes:
-      label: What is the problem you are encountering? 
-      description: Explain to us what the problem is. Drop some screenshots, vidéos or files to make it clearer.
+      label: What is the problem?
+      description: Explain us the problem. Drop some screenshots, videos or files to make it clearer.
       placeholder: What can you see?
     validations:
       required: true
