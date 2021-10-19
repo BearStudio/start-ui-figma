@@ -1,0 +1,94 @@
+name: Bug Report
+description: File a bug report
+title: "[Bug]: "
+labels: ["bug", "triage"]
+assignees:
+  - octocat
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+  - type: checkboxes
+    attributes:
+      label: Can you repoduce this bug with the latest version the starter? 
+      description: If you are unsure, please check it out on the [community page](https://go.bearstudio.fr/start-ui-figma) first?
+      options:
+        - label: I have checked and i am sure!
+          required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What is the problem you are encountering? 
+      description: Also tell us, what did you expect to happen?
+      placeholder: Tell us what you see!
+    validations:
+      required: true
+  - type: dropdown
+    id: version
+    attributes:
+      label: Type of elements concerned
+      description: Where did you experienced your problem?
+      options:
+        - Components
+        - Icons
+        - Styles
+        - Tutorials
+        - Web app desktop [web]
+        - 
+    validations:
+      required: true
+  - type: dropdown
+    id: browsers
+    attributes:
+      label: What browsers are you seeing the problem on?
+      multiple: true
+      options:
+        - Firefox
+        - Chrome
+        - Safari
+        - Microsoft Edge
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant log output
+      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      render: shell
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
+
+---
+name: Bug report
+about: Create a report to help us improve
+title: ''
+labels: bug
+assignees: ''
+
+---
+
+- [ ] I can reproduce this bug with the latest version available on the [community page](https://go.bearstudio.fr/start-ui-figma)
+
+## Describe the problem
+<!--A clear and concise description of what the bug is. Please add some **screenshots** to make it clearer-->
+
+
+## Expected behavior
+<!--A clear and concise description of what you expected to happen.-->
+
+
+## Any idea how to fix the problem?
+<!--Try to explain how could you/we fix the problem-->
+
+
+## Figma file
+<!--If you have fixed the issue yourself don't forget to send us your **.FIG** so we can fix this on our main file.-->
+
+
+## Additional context
+<!--Add any other context about the problem here. (screenshots etc.)-->
