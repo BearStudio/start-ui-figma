@@ -1,21 +1,18 @@
 name: Bug Report
-description: File a bug report
-title: "[Bug]: "
-labels: ["bug", "triage"]
-assignees:
-  - octocat
+description: Fill a bug report
+title: ""
+labels: ["bug"]
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report!
+        Thanks for taking some time to fill out this bug report! 🙏🏼
   - type: checkboxes
     attributes:
-      label: Can you repoduce this bug with the latest version the starter? 
-      description: If you are unsure, please check it out on the [community page](https://go.bearstudio.fr/start-ui-figma) first?
       options:
-        - label: I have checked and i am sure!
+        - label: Is this bug up on the latest version of the starter ?
           required: true
+      description: If you are unsure, please check it out on the [community page](https://go.bearstudio.fr/start-ui-figma) first?
   - type: textarea
     id: what-happened
     attributes:
