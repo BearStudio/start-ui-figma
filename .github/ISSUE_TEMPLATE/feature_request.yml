@@ -33,7 +33,7 @@ body:
   - type: textarea
     id: which-feature
     attributes:
-      label: What is your feature??
+      label: What is your feature?
       description: Explain us the feature/subject. Drop some screenshots, videos or files to make it clearer. Have you added it on your own file? Do not hesitate to share your feature making a copy of your .fig so we can add it on a future version.
       placeholder: What can you see?
     validations:
