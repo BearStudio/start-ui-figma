@@ -31,10 +31,17 @@ body:
     validations:
       required: false      
   - type: textarea
-    id: which-feature
+    id: what-happened
     attributes:
-      label: What is your feature??
-      description: Explain us the feature/subject. Drop some screenshots, videos or files to make it clearer. Have you added it on your own file? Do not hesitate to share your feature making a copy of your .fig so we can add it on a future version.
+      label: What is the problem?
+      description: Explain us the problem. Drop some screenshots, videos or files to make it clearer.
       placeholder: What can you see?
     validations:
       required: true
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: What do you suggest to improve  
+      description: Have you thought about the solution? Do you have any idea how to fix the issue? Have you fixed it on your own file? Do not hesitate fix it yourself and then make a copy of your .fig.
+    validations:
+      required: false
