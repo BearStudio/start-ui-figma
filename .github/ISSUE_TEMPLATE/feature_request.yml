@@ -1,0 +1,47 @@
+name: Feature request
+description: Fill a bug report
+title: "Subject title"
+labels: ["feature"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking some time to fill out this feature request form! 🙏🏼
+  - type: checkboxes
+    attributes:
+      description: Check first if the feature is not already live the latest version of the starter. If you are unsure, please check it out on the [community page](https://go.bearstudio.fr/start-ui-figma).
+      options:
+        - label: Is this feature is not on the latest version of the starter?
+          required: false     
+  - type: dropdown
+    id: version
+    attributes:
+      label: Type of element concerned
+      description: What part would benefit this new feature?
+      options:
+        - 🎓  Tutorials
+        - 💻  Web app Desktop [web]
+        - 📱  Mobile App [native]
+        - ⭐️  Icons
+        - 💊  Components
+        - 💎  Brand
+        - 🎨  Styles
+        - 🌈  Colors library
+        - ➕  Other...
+    validations:
+      required: false      
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What is the problem?
+      description: Explain us the problem. Drop some screenshots, videos or files to make it clearer.
+    validations:
+      required: true
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: What do you suggest to improve  
+      description: Have you thought about the solution? Do you have any idea how to add the feature on figma?
+                   Have you added it on your own file? If you did so, do not hesitate  make a copy of your .fig. so we can check it out and maybe add on future upgrades.
+    validations:
+      required: false
